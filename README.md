@@ -1,1 +1,1 @@
-# gutes-spiel
+# gutesspiel
